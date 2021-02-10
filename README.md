@@ -1,0 +1,2 @@
+# baidupanapi
+根据百度开放平台提供的API进行包装的java工具库
